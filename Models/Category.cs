@@ -15,7 +15,7 @@ namespace CRUDEFDay2.Models
         public string Name{ get; set; }
 
         public string? Desc { get; set; }
-        //ddd
+        
 
     }
 }
